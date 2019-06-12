@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentkuz_1", "Kentkuz_1\Kentkuz_1.csproj", "{AD0C92EE-D675-40F5-8AE6-E3F2970396DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kentkuz_tests", "Kentkuz_tests\Kentkuz_tests.csproj", "{0D05BABE-164E-496B-9679-3B0214C2B7DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0C92EE-D675-40F5-8AE6-E3F2970396DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0C92EE-D675-40F5-8AE6-E3F2970396DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0C92EE-D675-40F5-8AE6-E3F2970396DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0C92EE-D675-40F5-8AE6-E3F2970396DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D05BABE-164E-496B-9679-3B0214C2B7DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D05BABE-164E-496B-9679-3B0214C2B7DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D05BABE-164E-496B-9679-3B0214C2B7DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D05BABE-164E-496B-9679-3B0214C2B7DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D85493-BAD3-40FB-BF35-8832837DC0E0}
+	EndGlobalSection
+EndGlobal
